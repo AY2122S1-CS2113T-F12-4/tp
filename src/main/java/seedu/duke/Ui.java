@@ -81,10 +81,6 @@ public class Ui {
         System.out.println("Members File is Empty!!!");
     }
 
-    public static void printEmptyTrainingFile() {
-        System.out.println("Training File is Empty!!!");
-    }
-
     public static void printQuestionToList() {
         System.out.println("Please enter only a 'y' or 'n'.");
     }

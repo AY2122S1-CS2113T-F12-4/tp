@@ -31,8 +31,8 @@ public class Entry {
      */
     public static void initializeFiles() {
         MemberStorage.setupMemberFile(members);
-        TrainingStorage.setupTrainingFile(trainings);
         AttendanceStorage.setUpAttendanceStorage(attendanceList);
+        TrainingStorage.setupTrainingFile(trainings);
     }
 
     /**
